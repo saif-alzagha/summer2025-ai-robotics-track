@@ -1,6 +1,4 @@
 # summer2025-ai-robotics-track
-Summer AI and Robotics Projects and Logbook
-# summer2025-ai-robotics-track
 
 This repo documents my focused summer learning journey in AI and robotics. I'm not following a course — I’m designing, experimenting, and building small systems to sharpen my skills in machine learning, computer vision, and autonomous control.
 
